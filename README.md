@@ -21,6 +21,4 @@ stediginizi tartismak icin bir konu aciniz.
 [Yazi](url)
 [Patika.dev](https://www.patika.dev/)
 
-Image/Gorsel:
-![Aciklama Bilgisi](url)
 ![Lorem Picsum](https://picsum.photos/200/300)
